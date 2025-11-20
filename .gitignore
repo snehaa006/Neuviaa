@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+backend2/firebase_key.json
+src/pages/Backend/serviceAccountKey.json
+backend2/.env
